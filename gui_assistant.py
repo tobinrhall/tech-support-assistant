@@ -63,7 +63,7 @@ def main():
     docs = tech_assistant.load_knowledge_base()
 
     root = tk.Tk()
-    root.title("Tech Support Assistant of Sanctuary")
+    root.title("Tobys Tech Support Assistant of Sanctuary")
 
     # Top frame for controls
     controls_frame = tk.Frame(root)
